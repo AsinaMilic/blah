@@ -1,4 +1,4 @@
-# NephroInnovate API - Django with MongoDB!!!
+# NephroInnovate API - Django with MongoDB
 
 A Django implementation of the NephroInnovate API with MongoDB integration.
 
